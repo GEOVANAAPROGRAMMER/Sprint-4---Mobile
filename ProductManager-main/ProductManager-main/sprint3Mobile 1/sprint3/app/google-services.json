@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112808457312",
+    "firebase_url": "https://datatech-42e25-default-rtdb.firebaseio.com",
+    "project_id": "datatech-42e25",
+    "storage_bucket": "datatech-42e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112808457312:android:6ab08b73a8c6e461123f05",
+        "android_client_info": {
+          "package_name": "edu.curso.sprint3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC87EURmUuT6oWuAvw24SkVEHd_Wwstp6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
